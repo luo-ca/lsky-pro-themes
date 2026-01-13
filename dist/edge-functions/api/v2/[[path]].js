@@ -2,7 +2,7 @@
 // EdgeOne Pages API 代理配置
 // 修改下方 API_BASE 为你的后端 API 地址
 // ============================================
-const API_BASE = 'https://egouu.com';
+const API_BASE = 'https://img.luoca.net';
 
 /**
  * 代理所有 /api/v2/* 请求到目标服务器
